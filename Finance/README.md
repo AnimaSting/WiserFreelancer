@@ -1,1 +1,1 @@
-# All financial informations will add in this file.
+# All financial informations will be added in this file.
